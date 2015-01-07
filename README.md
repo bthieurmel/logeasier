@@ -1,4 +1,3 @@
-Easy logging in R, configurable by package
 logeasier : Easy logging in R, configurable by package
 =========
 
